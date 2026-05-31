@@ -1,5 +1,14 @@
 [
   {
+    "slug": "sample-page",
+    "title": "Sample page",
+    "description": "Sample testing page ",
+    "tags": [
+      "draft"
+    ],
+    "publishedAt": 1780246962195
+  },
+  {
     "slug": "ghjkg",
     "title": "Introduction to Setting up an MCP Server",
     "description": "",
