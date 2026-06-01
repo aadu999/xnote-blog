@@ -1,9 +1,9 @@
 ---
 title: The Definitive Guide to Supervised Machine LearningMy personal
 slug: the-definitive-guide-to-supervised-machine-learningmy-personal
-description: upervised learning is the most dominant and widely utilized paradigm within the broader field of artificial intelligence and machine learning. 
+description: supervised learning is the most dominant and widely utilized paradigm within the broader field of artificial intelligence and machine learning. 
 tags: ["draft"]
-publishedAt: 1780311642261
+publishedAt: 1780311652965
 ogImage: https://raw.githubusercontent.com/aadu999/xnote-blog/main/og/the-definitive-guide-to-supervised-machine-learningmy-personal.png
 ---
 
