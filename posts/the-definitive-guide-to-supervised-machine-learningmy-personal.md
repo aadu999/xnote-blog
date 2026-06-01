@@ -3,7 +3,7 @@ title: The Definitive Guide to Supervised Machine LearningMy personal
 slug: the-definitive-guide-to-supervised-machine-learningmy-personal
 description: Explore supervised machine learning fundamentals. Master classification and regression techniques, understand the bias-variance tradeoff, and select the best model from algorithms like Random Forests and Neural Networks. Learn evaluation me
 tags: ["draft"]
-publishedAt: 1780313284713
+publishedAt: 1780313342533
 ogImage: https://raw.githubusercontent.com/aadu999/xnote-blog/main/assets/1780313138744-licensed-image.jpg
 ---
 
