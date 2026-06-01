@@ -1,5 +1,12 @@
 [
   {
+    "slug": "sample-content",
+    "title": "sample content",
+    "description": "Master Android Wi-Fi Direct (P2P) connections for direct, router-free device communication. This guide details how to implement the full lifecycle, including setup, scanning, connecting, and handling data transfer between peers on Android O",
+    "tags": [],
+    "publishedAt": 1780323361476
+  },
+  {
     "slug": "the-definitive-guide-to-supervised-machine-learningmy-personal",
     "title": "The Definitive Guide to Supervised Machine LearningMy personal",
     "description": "Explore supervised machine learning fundamentals. Master classification and regression techniques, understand the bias-variance tradeoff, and select the best model from algorithms like Random Forests and Neural Networks. Learn evaluation me",
