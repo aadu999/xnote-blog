@@ -1,14 +1,22 @@
 {
-  "name": "Default",
-  "blurb": "The xNote house style — indigo on near-black.",
-  "accent": "#4f46e5",
-  "accentDark": "#818cf8",
+  "name": "Portfolio",
+  "blurb": "Card grid index, cover hero on posts. White-label footer.",
+  "accent": "#7c3aed",
+  "accentDark": "#a78bfa",
   "fonts": {
     "body": "Inter",
-    "heading": "Inter"
+    "heading": "Space Grotesk"
   },
   "layout": {
-    "width": "normal"
+    "width": "normal",
+    "indexStyle": "cards",
+    "postHeader": "cover",
+    "toc": "auto",
+    "dateFormat": "relative",
+    "showProfile": false
   },
-  "defaultMode": "auto"
+  "defaultMode": "dark",
+  "branding": {
+    "showXNote": false
+  }
 }
