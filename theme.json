@@ -1,0 +1,14 @@
+{
+  "name": "Broadsheet",
+  "blurb": "Authoritative serif headers over a clean sans body.",
+  "accent": "#9f1239",
+  "accentDark": "#fb7185",
+  "fonts": {
+    "body": "Inter",
+    "heading": "Merriweather"
+  },
+  "layout": {
+    "width": "normal"
+  },
+  "defaultMode": "auto"
+}
