@@ -1,5 +1,12 @@
 [
   {
+    "slug": "how-to-use-gemma-models",
+    "title": "How to use gemma models",
+    "description": "",
+    "tags": [],
+    "publishedAt": 1781276793667
+  },
+  {
     "slug": "mastering-regression-in-machine-learning-a-comprehensive-technical-guide",
     "title": "Mastering Regression in Machine Learning: A Comprehensive Technical Guide",
     "description": "Regression is one of the most fundamental and widely used types of supervised learning in machine learning. While classification tasks focus on assigning labels to data points (e.g., \"Spam\" vs. \"Not Spam\"), regression focuses on predicting ",
