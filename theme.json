@@ -1,14 +1,14 @@
 {
-  "name": "Broadsheet",
-  "blurb": "Authoritative serif headers over a clean sans body.",
-  "accent": "#9f1239",
-  "accentDark": "#fb7185",
+  "name": "Terminal",
+  "blurb": "Wide, dark, engineered. For technical writing.",
+  "accent": "#059669",
+  "accentDark": "#34d399",
   "fonts": {
-    "body": "Inter",
-    "heading": "Merriweather"
+    "body": "IBM Plex Sans",
+    "heading": "Space Grotesk"
   },
   "layout": {
-    "width": "normal"
+    "width": "wide"
   },
-  "defaultMode": "auto"
+  "defaultMode": "dark"
 }
