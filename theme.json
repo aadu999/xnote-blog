@@ -1,22 +1,19 @@
 {
-  "name": "Portfolio",
-  "blurb": "Card grid index, cover hero on posts. White-label footer.",
-  "accent": "#7c3aed",
-  "accentDark": "#a78bfa",
+  "name": "Custom",
+  "blurb": "Wide engineering writeups, always-on TOC, ISO dates.",
+  "accent": "#059669",
+  "accentDark": "#34d399",
   "fonts": {
-    "body": "Inter",
+    "body": "IBM Plex Sans",
     "heading": "Space Grotesk"
   },
   "layout": {
-    "width": "normal",
-    "indexStyle": "cards",
-    "postHeader": "cover",
-    "toc": "auto",
-    "dateFormat": "relative",
-    "showProfile": false
+    "width": "wide",
+    "indexStyle": "list",
+    "postHeader": "banner",
+    "toc": "always",
+    "dateFormat": "iso",
+    "showProfile": true
   },
-  "defaultMode": "dark",
-  "branding": {
-    "showXNote": false
-  }
+  "defaultMode": "dark"
 }
