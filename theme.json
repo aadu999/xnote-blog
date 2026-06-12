@@ -1,19 +1,19 @@
 {
-  "name": "Custom",
-  "blurb": "Wide engineering writeups, always-on TOC, ISO dates.",
-  "accent": "#059669",
-  "accentDark": "#34d399",
+  "name": "Default",
+  "blurb": "The xNote house style — indigo on near-black, list index.",
+  "accent": "#4f46e5",
+  "accentDark": "#818cf8",
   "fonts": {
-    "body": "IBM Plex Sans",
-    "heading": "Space Grotesk"
+    "body": "Inter",
+    "heading": "Inter"
   },
   "layout": {
-    "width": "wide",
+    "width": "normal",
     "indexStyle": "list",
-    "postHeader": "banner",
-    "toc": "always",
-    "dateFormat": "iso",
+    "postHeader": "minimal",
+    "toc": "auto",
+    "dateFormat": "absolute",
     "showProfile": true
   },
-  "defaultMode": "dark"
+  "defaultMode": "auto"
 }
