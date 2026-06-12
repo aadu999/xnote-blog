@@ -1,14 +1,14 @@
 {
-  "name": "Terminal",
-  "blurb": "Wide, dark, engineered. For technical writing.",
-  "accent": "#059669",
-  "accentDark": "#34d399",
+  "name": "Default",
+  "blurb": "The xNote house style — indigo on near-black.",
+  "accent": "#4f46e5",
+  "accentDark": "#818cf8",
   "fonts": {
-    "body": "IBM Plex Sans",
-    "heading": "Space Grotesk"
+    "body": "Inter",
+    "heading": "Inter"
   },
   "layout": {
-    "width": "wide"
+    "width": "normal"
   },
-  "defaultMode": "dark"
+  "defaultMode": "auto"
 }
