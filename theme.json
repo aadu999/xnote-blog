@@ -1,19 +1,23 @@
 {
-  "name": "Default",
-  "blurb": "The xNote house style — indigo on near-black, list index.",
-  "accent": "#4f46e5",
-  "accentDark": "#818cf8",
+  "name": "Bento",
+  "blurb": "Weighted tile grid index — a spatial, portfolio landing.",
+  "template": "bento",
+  "accent": "#0ea5e9",
+  "accentDark": "#38bdf8",
   "fonts": {
     "body": "Inter",
-    "heading": "Inter"
+    "heading": "Space Grotesk"
   },
   "layout": {
     "width": "normal",
-    "indexStyle": "list",
-    "postHeader": "minimal",
+    "indexStyle": "cards",
+    "postHeader": "cover",
     "toc": "auto",
-    "dateFormat": "absolute",
-    "showProfile": true
+    "dateFormat": "relative",
+    "showProfile": false
   },
-  "defaultMode": "auto"
+  "defaultMode": "dark",
+  "branding": {
+    "showXNote": false
+  }
 }
