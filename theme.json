@@ -1,7 +1,7 @@
 {
   "name": "Custom",
   "blurb": "Weighted tile grid index — a spatial, portfolio landing.",
-  "template": "bento",
+  "template": "aurora",
   "accent": "#0ea5e9",
   "accentDark": "#38bdf8",
   "fonts": {
