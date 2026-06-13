@@ -9,7 +9,7 @@
     "heading": "Space Grotesk"
   },
   "layout": {
-    "width": "wide",
+    "width": "normal",
     "indexStyle": "magazine",
     "postHeader": "banner",
     "toc": "auto",
