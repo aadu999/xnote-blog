@@ -1,5 +1,5 @@
 {
-  "name": "Bento",
+  "name": "Custom",
   "blurb": "Weighted tile grid index — a spatial, portfolio landing.",
   "template": "bento",
   "accent": "#0ea5e9",
@@ -10,7 +10,7 @@
   },
   "layout": {
     "width": "normal",
-    "indexStyle": "cards",
+    "indexStyle": "magazine",
     "postHeader": "cover",
     "toc": "auto",
     "dateFormat": "relative",
