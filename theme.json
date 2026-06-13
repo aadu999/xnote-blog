@@ -9,12 +9,12 @@
     "heading": "Space Grotesk"
   },
   "layout": {
-    "width": "normal",
+    "width": "wide",
     "indexStyle": "magazine",
-    "postHeader": "cover",
+    "postHeader": "banner",
     "toc": "auto",
     "dateFormat": "relative",
-    "showProfile": false
+    "showProfile": true
   },
   "defaultMode": "dark",
   "branding": {
