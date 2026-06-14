@@ -1,5 +1,12 @@
 [
   {
+    "slug": "using-ollama-to-build-local-mcp",
+    "title": "Using Ollama to Build Local MCP",
+    "description": "This guide helps set up a local Machine Control Panel (MCP) using Ollama for managing machines locally, covering installation, configuration, and troubleshooting steps.",
+    "tags": [],
+    "publishedAt": 1781429419533
+  },
+  {
     "slug": "introduction-to-exposing-ollama-on-local-apps-and-websites",
     "title": "Introduction to Exposing Ollama on Local Apps and Websites ",
     "description": "Exposing Ollama on local apps and websites allows developers to leverage AI capabilities. A step-by-step guide covers Windows, macOS, and Linux setup.",
