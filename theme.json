@@ -1,20 +1,23 @@
 {
   "name": "Custom",
-  "blurb": "Phosphor mono, scanlines, directory-listing index.",
+  "blurb": "Weighted tile-grid index; clean Editorial-style posts.",
   "template": "bento",
-  "accent": "#22c55e",
-  "accentDark": "#4ade80",
+  "accent": "#0ea5e9",
+  "accentDark": "#38bdf8",
   "fonts": {
-    "body": "IBM Plex Sans",
+    "body": "Inter",
     "heading": "Space Grotesk"
   },
   "layout": {
     "width": "wide",
-    "indexStyle": "list",
-    "postHeader": "minimal",
-    "toc": "always",
-    "dateFormat": "iso",
-    "showProfile": true
+    "indexStyle": "magazine",
+    "postHeader": "banner",
+    "toc": "auto",
+    "dateFormat": "relative",
+    "showProfile": false
   },
-  "defaultMode": "dark"
+  "defaultMode": "dark",
+  "branding": {
+    "showXNote": false
+  }
 }
