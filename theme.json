@@ -9,7 +9,7 @@
     "heading": "Playfair Display"
   },
   "layout": {
-    "width": "narrow",
+    "width": "wide",
     "indexStyle": "list",
     "postHeader": "banner",
     "toc": "auto",
