@@ -14,7 +14,7 @@
     "postHeader": "banner",
     "toc": "auto",
     "dateFormat": "relative",
-    "showProfile": false
+    "showProfile": true
   },
   "defaultMode": "dark",
   "branding": {
