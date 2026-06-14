@@ -1,23 +1,20 @@
 {
   "name": "Custom",
-  "blurb": "Weighted tile grid index — a spatial, portfolio landing.",
+  "blurb": "Refined default — serif magazine index, clean reading.",
   "template": "editorial",
-  "accent": "#0ea5e9",
-  "accentDark": "#38bdf8",
+  "accent": "#4f46e5",
+  "accentDark": "#818cf8",
   "fonts": {
-    "body": "Inter",
-    "heading": "Space Grotesk"
+    "body": "Source Serif 4",
+    "heading": "Playfair Display"
   },
   "layout": {
-    "width": "normal",
-    "indexStyle": "magazine",
+    "width": "narrow",
+    "indexStyle": "list",
     "postHeader": "banner",
     "toc": "auto",
-    "dateFormat": "relative",
+    "dateFormat": "absolute",
     "showProfile": true
   },
-  "defaultMode": "dark",
-  "branding": {
-    "showXNote": false
-  }
+  "defaultMode": "auto"
 }
