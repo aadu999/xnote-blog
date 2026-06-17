@@ -1,14 +1,5 @@
 [
   {
-    "slug": "hh",
-    "title": "Hh",
-    "description": "",
-    "tags": [],
-    "publishedAt": 1781482660363,
-    "parentSlug": "using-ollama-to-build-local-mcp",
-    "order": 0
-  },
-  {
     "slug": "using-ollama-to-build-local-mcp",
     "title": "Using Ollama to Build Local MCP",
     "description": "This guide helps set up a local Machine Control Panel (MCP) using Ollama for managing machines locally, covering installation, configuration, and troubleshooting steps.",
