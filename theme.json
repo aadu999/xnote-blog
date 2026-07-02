@@ -9,10 +9,10 @@
     "heading": "Lora"
   },
   "layout": {
-    "width": "narrow",
+    "width": "wide",
     "indexStyle": "list",
     "postHeader": "minimal",
-    "toc": "never",
+    "toc": "auto",
     "dateFormat": "absolute",
     "showProfile": true
   },
