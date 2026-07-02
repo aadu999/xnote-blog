@@ -1,20 +1,23 @@
 {
   "name": "Custom",
-  "blurb": "Glassmorphism over a slow ambient gradient. Gradient headlines.",
-  "template": "editorial",
-  "accent": "#6366f1",
-  "accentDark": "#a5b4fc",
+  "blurb": "Weighted tile-grid index with an accent feature tile.",
+  "template": "bento",
+  "accent": "#0ea5e9",
+  "accentDark": "#38bdf8",
   "fonts": {
     "body": "Inter",
     "heading": "Space Grotesk"
   },
   "layout": {
     "width": "wide",
-    "indexStyle": "list",
-    "postHeader": "minimal",
+    "indexStyle": "cards",
+    "postHeader": "cover",
     "toc": "auto",
     "dateFormat": "relative",
-    "showProfile": true
+    "showProfile": false
   },
-  "defaultMode": "dark"
+  "defaultMode": "dark",
+  "branding": {
+    "showXNote": false
+  }
 }
