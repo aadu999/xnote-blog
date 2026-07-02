@@ -21,13 +21,6 @@
     "publishedAt": 1781060794007
   },
   {
-    "slug": "how-github-watch-works",
-    "title": "How github watch works",
-    "description": "Master GitHub's watch feature to stay informed about project changes. Learn how to customize notifications for issues, pull requests, and discussions, ensuring you only get alerts for things that matter.",
-    "tags": [],
-    "publishedAt": 1780323532250
-  },
-  {
     "slug": "the-definitive-guide-to-supervised-machine-learningmy-personal",
     "title": "The Definitive Guide to Supervised Machine LearningMy personal",
     "description": "Explore supervised machine learning fundamentals. Master classification and regression techniques, understand the bias-variance tradeoff, and select the best model from algorithms like Random Forests and Neural Networks. Learn evaluation me",
