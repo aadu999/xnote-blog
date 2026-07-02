@@ -1,23 +1,20 @@
 {
   "name": "Custom",
-  "blurb": "Weighted tile-grid index; clean Editorial-style posts.",
-  "template": "bento",
-  "accent": "#0ea5e9",
-  "accentDark": "#38bdf8",
+  "blurb": "Warm serif, narrow column, no TOC. Pure reading.",
+  "template": "editorial",
+  "accent": "#1936c8",
+  "accentDark": "#002eb8",
   "fonts": {
-    "body": "Inter",
-    "heading": "Space Grotesk"
+    "body": "Lora",
+    "heading": "Lora"
   },
   "layout": {
-    "width": "wide",
-    "indexStyle": "cards",
-    "postHeader": "banner",
-    "toc": "auto",
-    "dateFormat": "relative",
+    "width": "narrow",
+    "indexStyle": "list",
+    "postHeader": "minimal",
+    "toc": "never",
+    "dateFormat": "absolute",
     "showProfile": true
   },
-  "defaultMode": "dark",
-  "branding": {
-    "showXNote": false
-  }
+  "defaultMode": "light"
 }
