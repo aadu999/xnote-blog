@@ -1,23 +1,23 @@
 {
   "name": "Custom",
-  "blurb": "Weighted tile-grid index with an accent feature tile.",
-  "template": "bento",
-  "accent": "#0ea5e9",
-  "accentDark": "#38bdf8",
+  "blurb": "Zen minimal on a warm paper ground. The interface disappears.",
+  "template": "paper",
+  "accent": "#57534e",
+  "accentDark": "#a8a29e",
   "fonts": {
     "body": "Inter",
-    "heading": "Space Grotesk"
+    "heading": "Inter"
   },
   "layout": {
     "width": "wide",
-    "indexStyle": "cards",
-    "postHeader": "cover",
+    "indexStyle": "list",
+    "postHeader": "minimal",
     "toc": "auto",
-    "dateFormat": "relative",
-    "showProfile": false
+    "dateFormat": "iso",
+    "showProfile": true
   },
-  "defaultMode": "dark",
+  "defaultMode": "auto",
   "branding": {
-    "showXNote": false
+    "showXNote": true
   }
 }
