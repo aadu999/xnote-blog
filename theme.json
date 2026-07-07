@@ -1,23 +1,20 @@
 {
   "name": "Custom",
-  "blurb": "Zen minimal on a warm paper ground. The interface disappears.",
-  "template": "paper",
-  "accent": "#57534e",
-  "accentDark": "#a8a29e",
+  "blurb": "Glassmorphism over a slow ambient gradient. Gradient headlines.",
+  "template": "bento",
+  "accent": "#6366f1",
+  "accentDark": "#a5b4fc",
   "fonts": {
     "body": "Inter",
-    "heading": "Inter"
+    "heading": "Space Grotesk"
   },
   "layout": {
     "width": "wide",
-    "indexStyle": "list",
+    "indexStyle": "cards",
     "postHeader": "minimal",
     "toc": "auto",
-    "dateFormat": "iso",
+    "dateFormat": "relative",
     "showProfile": true
   },
-  "defaultMode": "auto",
-  "branding": {
-    "showXNote": true
-  }
+  "defaultMode": "dark"
 }
