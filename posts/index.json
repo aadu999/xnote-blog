@@ -1,5 +1,20 @@
 [
   {
+    "slug": "impact-of-generative-ai-on-api",
+    "title": "Impact of Generative AI on API",
+    "description": "APIs have become the backbone of software engineering, enabling different systems to communicate with each other. However, with the advent of generative…",
+    "tags": [
+      "api",
+      "generative-ai",
+      "software-engineering",
+      "ai-generated"
+    ],
+    "publishedAt": 1783497403363,
+    "updatedAt": 1783497403363,
+    "parentSlug": "generative-ai-in-software-engineering",
+    "order": 0
+  },
+  {
     "slug": "generative-ai-in-software-engineering",
     "title": "Generative AI in Software Engineering",
     "description": "Generative AI transforms software engineering with automated coding and testing.",
