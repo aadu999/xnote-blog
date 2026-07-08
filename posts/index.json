@@ -1,5 +1,20 @@
 [
   {
+    "slug": "deep-dive-into-mcps-and-api-evolution",
+    "title": "Deep Dive into MCPs and API Evolution",
+    "description": "MCPs are poised to revolutionize the way APIs are designed, developed, and deployed. With the power of model based systems, MCPs can automatically…",
+    "tags": [
+      "mcp",
+      "api",
+      "evolution",
+      "ai-generated"
+    ],
+    "publishedAt": 1783497427174,
+    "updatedAt": 1783497427174,
+    "parentSlug": "generative-ai-in-software-engineering",
+    "order": 2
+  },
+  {
     "slug": "generative-ai-and-mcps-in-software-engineering",
     "title": "Generative AI and MCPs in Software Engineering",
     "description": "MCPs, or Model Based Systems, are a new approach to software engineering that leverages generative AI to create and manage complex systems. The use of…",
