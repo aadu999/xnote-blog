@@ -1,5 +1,20 @@
 [
   {
+    "slug": "architecture-options",
+    "title": "Architecture Options",
+    "description": "AWS offers three primary hosting models for REST APIs, each with distinct tradeoffs in development speed, operational overhead, cost structure, and…",
+    "tags": [
+      "aws",
+      "architecture",
+      "serverless",
+      "containers",
+      "ec2",
+      "ai-generated"
+    ],
+    "publishedAt": 1784708152178,
+    "updatedAt": 1784708152178
+  },
+  {
     "slug": "how-github-watch-works",
     "title": "How github watch works",
     "description": "Master GitHub's watch feature to stay informed about project changes. Learn how to customize notifications for issues, pull requests, and discussions, ensuring you only get alerts for things that matter.",
